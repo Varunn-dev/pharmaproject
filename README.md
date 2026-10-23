@@ -1,5 +1,3 @@
-# pharmaproject
-#mehemeh
 <!doctype html>
 <html lang="en">
 <head>
